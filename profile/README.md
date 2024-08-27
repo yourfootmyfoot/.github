@@ -23,7 +23,7 @@
 
 
 ### 데이터베이스
-![MySQL Badge](https://img.shields.io/badge/mysql%208.0.37-4479A1?style=for-the-badge&logo=mysql&logoColor=white) -> 버전 교체 예정
+![MySQL Badge](https://img.shields.io/badge/mysql%208.0.37-4479A1?style=for-the-badge&logo=mysql&logoColor=white) -> 버전 교체 예정</br>
 ![MyBatis Badge](https://img.shields.io/badge/mybatis%203.0.3-000000?style=for-the-badge&logoColor=white)
 
 ### 외부 API
